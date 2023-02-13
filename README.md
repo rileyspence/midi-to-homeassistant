@@ -12,8 +12,9 @@
 `sudo apt install libasound2-dev`  
 6. Install RTMidi using 
 `pip install rtmidi`  
-7. Make the script:  
+7. Configure the script:  
 
+    Download the latest script.py from Releases
     Give Midi Controller Name  
     Give Home Assistant URL  
     
