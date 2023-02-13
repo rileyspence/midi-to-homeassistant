@@ -79,9 +79,9 @@ Give Home Assistant Token
     `sudo systemctl edit getty@tty1.service`
     
     > `[Service]
-    ExecStart=
-    ExecStart=-/sbin/agetty --autologin {username} %I $TERM
-    Type=idle`
+    > ExecStart=
+    > ExecStart=-/sbin/agetty --autologin {username} %I $TERM
+    > Type=idle`
     > 
     
     replacing {username} with your username
