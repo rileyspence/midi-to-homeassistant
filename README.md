@@ -1,4 +1,4 @@
-# Midi Box Thing
+# Python-Powered MIDI to Homeassistant
 
 1. Install Ubuntu Server
 [https://ubuntu.com/download/server](https://ubuntu.com/download/server) we use 20.04
