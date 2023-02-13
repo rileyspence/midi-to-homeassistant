@@ -6,8 +6,6 @@ import time
 
 midi_controller_name = "" ##CHANGEME
 homeassistant_uri = ""  ##CHANGEME no ending slash
-homeassistant_token = "" ##CHANGEME
-
 
 
 def wait_for_device(device_name):
