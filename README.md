@@ -17,7 +17,7 @@
     Give Midi Controller Name  
     Give Home Assistant URL  
     
-8. Make script on Login
+8. Make script run on Login
     
     `echo "" >> .bashrc`  
     `echo "" >> .bashrc`  
